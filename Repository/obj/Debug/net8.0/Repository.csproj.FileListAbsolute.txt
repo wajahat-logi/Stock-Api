@@ -1,0 +1,11 @@
+D:\StockApplication\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\StockApplication\Repository\bin\Debug\net8.0\Repository.dll
+D:\StockApplication\Repository\bin\Debug\net8.0\Repository.pdb
+D:\StockApplication\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\StockApplication\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\StockApplication\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\StockApplication\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\StockApplication\Repository\obj\Debug\net8.0\Repository.dll
+D:\StockApplication\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\StockApplication\Repository\obj\Debug\net8.0\Repository.pdb
+D:\StockApplication\Repository\obj\Debug\net8.0\ref\Repository.dll

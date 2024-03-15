@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StockApplication\\StockApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{497F7E21-131E-430B-830B-5285F4F778FE}|..\\Models\\Models.csproj|d:\\stockapplication\\models\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B71D09D-00F5-49C6-B8D6-0D02702E19F1}|..\\Database\\Database.csproj|d:\\stockapplication\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B71D09D-00F5-49C6-B8D6-0D02702E19F1}|..\\Database\\Database.csproj|d:\\stockapplication\\database\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26A9653-C730-4A9E-9FE6-8CA94D7C9ABB}|..\\UnitTesting\\UnitTesting.csproj|d:\\stockapplication\\unittesting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEB0555-AC0E-4FEE-98A0-EFF77858B2FB}|..\\Service\\Service.csproj|d:\\stockapplication\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C1ABFF-63E5-425F-886E-5462A1B219D4}|..\\Repository\\Repository.csproj|d:\\stockapplication\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\StockApplication\\Database\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "..\\Database\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\StockApplication\\Database\\ApplicationDBContext.cs",
+              "RelativeToolTip": "..\\Database\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:42:48.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\StockApplication\\UnitTesting\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTesting\\Class1.cs",
+              "ToolTip": "D:\\StockApplication\\UnitTesting\\Class1.cs",
+              "RelativeToolTip": "..\\UnitTesting\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:34:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stocks.cs",
+              "DocumentMoniker": "D:\\StockApplication\\Models\\Stocks.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Stocks.cs",
+              "ToolTip": "D:\\StockApplication\\Models\\Stocks.cs",
+              "RelativeToolTip": "..\\Models\\Stocks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:34:41.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\StockApplication\\Service\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Service\\Class1.cs",
+              "ToolTip": "D:\\StockApplication\\Service\\Class1.cs",
+              "RelativeToolTip": "..\\Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:34:26.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\StockApplication\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Class1.cs",
+              "ToolTip": "D:\\StockApplication\\Repository\\Class1.cs",
+              "RelativeToolTip": "..\\Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:34:09.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "D:\\StockApplication\\Database\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "..\\Database\\ServiceExtension.cs",
+              "ToolTip": "D:\\StockApplication\\Database\\ServiceExtension.cs",
+              "RelativeToolTip": "..\\Database\\ServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:33:51.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

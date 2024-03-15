@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQoeRPL0/UqxQ2UJYeBU27duHd2C78meGlbUU9KlOA6os1hSiWWX9RUcW839VGsDH9ZlLjVGXMhADLqwEe981w==",
+  "success": true,
+  "projectFilePath": "D:\\StockApplication\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wajahat\\.nuget\\packages\\identitymodel\\6.2.0\\identitymodel.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

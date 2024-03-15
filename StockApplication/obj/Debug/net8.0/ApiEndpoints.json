@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "StockApplication.Controllers.WebApiController",
+    "Method": "Authenticate",
+    "RelativePath": "WebApi/Authenticate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

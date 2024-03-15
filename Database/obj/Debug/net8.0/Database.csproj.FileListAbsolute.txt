@@ -1,0 +1,12 @@
+D:\StockApplication\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\StockApplication\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\StockApplication\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\StockApplication\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\StockApplication\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\StockApplication\Database\bin\Debug\net8.0\Database.deps.json
+D:\StockApplication\Database\bin\Debug\net8.0\Database.dll
+D:\StockApplication\Database\bin\Debug\net8.0\Database.pdb
+D:\StockApplication\Database\obj\Debug\net8.0\Database.dll
+D:\StockApplication\Database\obj\Debug\net8.0\refint\Database.dll
+D:\StockApplication\Database\obj\Debug\net8.0\Database.pdb
+D:\StockApplication\Database\obj\Debug\net8.0\ref\Database.dll
